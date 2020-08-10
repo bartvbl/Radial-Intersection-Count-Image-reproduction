@@ -1,5 +1,16 @@
 # Source code repository for the paper "Radial Intersection Count Image: a Clutter Resistant Shape Descriptor"
 
+-----
+
+### Notice: This repository is for archival and reproduction purposes only. Please refer to the following repositories for updated code and documentation:
+
+[libShapeDescriptor](https://github.com/bartvbl/libShapeDescriptor)
+
+
+[Clutterbox](https://github.com/bartvbl/Clutterbox)
+
+-----
+
 This repository contains:
 
 - A reference implementation of the Radial Intersection Count Image
