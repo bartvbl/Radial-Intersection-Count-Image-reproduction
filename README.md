@@ -2,7 +2,9 @@
 
 -----
 
-### Notice: This repository is for archival and reproduction purposes only. Please refer to the following repositories for updated code and documentation:
+### Notice: This repository is for archival and reproduction purposes only. 
+
+### Please refer to the following repositories for updated code and documentation:
 
 [libShapeDescriptor](https://github.com/bartvbl/libShapeDescriptor)
 
