@@ -1,5 +1,7 @@
 # Source code repository for the paper "Radial Intersection Count Image: a Clutter Resistant Shape Descriptor"
 
+[Please find the paper on which this work is based here](https://www.sciencedirect.com/science/article/pii/S0097849320301096)
+
 -----
 
 ### Notice: This repository is for archival and reproduction purposes only. 
